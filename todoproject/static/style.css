@@ -1,0 +1,25 @@
+.banner {
+    background-color: blue;
+    width:1000%;
+    height:100px;
+    margin-bottom:50px;
+}
+
+.banner-text {
+    top:10%;
+    left:10%;
+    position:absolute;
+    transform:transform;
+}
+body {
+    background-color: pink;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.container {
+    background-color:lightgreen;
+    padding: 20px;
+    border-radius: 10px;
+
+}
